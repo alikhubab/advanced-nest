@@ -5,3 +5,4 @@ describe('EntityExistsPipe', () => {
     expect(new EntityExistsPipe()).toBeDefined();
   });
 });
+ 
